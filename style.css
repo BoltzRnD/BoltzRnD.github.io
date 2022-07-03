@@ -26,6 +26,7 @@
     padding-top: 16px;
 }
 #body{
+    margin-top: 15%;
     padding-top: 1em;
     padding-bottom: 10em;
 }
@@ -36,10 +37,6 @@
 }
 body{
     background: #1f1f1f;
-}
-#imgcarousel{
-    margin-top: 10vw;
-    height: 60vw;
 }
 .el__preview-cont{
 }
