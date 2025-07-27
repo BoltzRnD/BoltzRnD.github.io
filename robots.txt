@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://boltzrnd.com
+
+# Sitemaps
+Sitemap: https://boltzrnd.com/sitemap.xml
